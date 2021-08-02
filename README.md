@@ -126,7 +126,7 @@ Docker , OS requirements
 
 ```
 
-## Commands on Ubuntu Server  
+## old commands on Ubuntu Server  
 
 ```bash
 sudo apt-get update
